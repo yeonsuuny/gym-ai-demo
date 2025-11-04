@@ -1,0 +1,13 @@
+{
+  "name": "gym-ai-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.7.0",
+    "framer-motion": "^11.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
